@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carousel-slider-framer-motion/static/css/main.4fdd6006.css",
+    "main.js": "/carousel-slider-framer-motion/static/js/main.c432a42e.js",
+    "static/js/787.3959c1e8.chunk.js": "/carousel-slider-framer-motion/static/js/787.3959c1e8.chunk.js",
+    "index.html": "/carousel-slider-framer-motion/index.html",
+    "main.4fdd6006.css.map": "/carousel-slider-framer-motion/static/css/main.4fdd6006.css.map",
+    "main.c432a42e.js.map": "/carousel-slider-framer-motion/static/js/main.c432a42e.js.map",
+    "787.3959c1e8.chunk.js.map": "/carousel-slider-framer-motion/static/js/787.3959c1e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fdd6006.css",
+    "static/js/main.c432a42e.js"
+  ]
+}
